@@ -111,7 +111,7 @@ Finalmente se muestra la página "Home":
 
 ## Adicional - AndroidManifest.xml
 
-Este es un componente esencial para cualquier aplicación android porque define los permisos, actividades o servicios, proporcionando al sistema android crítica para el correcto funcionamiento de la aplicación. 
+Este es un componente esencial para cualquier aplicación android porque define los permisos, actividades o servicios, proporcionando al sistema android información crítica para el correcto funcionamiento de la aplicación. 
 
 Para este caso se modificó el archivo para solicitar permisos al abrir la cámara:
 
