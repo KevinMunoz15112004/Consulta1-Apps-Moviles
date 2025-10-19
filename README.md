@@ -121,7 +121,7 @@ Al ingresar a la aplicación y presionar el botón de la cámara pedirá el resp
 
 <img width="335" height="367" alt="image" src="https://github.com/user-attachments/assets/dd0d5c13-8e4c-4629-8cb5-2eb6e290ce34" />
 
-Una vez aceptado se abrirá la cámara:
+Una vez aceptado, ya se podra abrir la cámara:
 
 <img width="288" height="549" alt="image" src="https://github.com/user-attachments/assets/808a76b8-eceb-4310-8e50-027b0e59d429" />
 
