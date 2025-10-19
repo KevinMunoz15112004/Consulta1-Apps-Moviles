@@ -6,7 +6,7 @@ Nombre: Kevin Muñoz
 
 # APK 
 
-Disponible en: android/app/build/outputs/apk/debug/
+Disponible en: [APK Consulta](android/app/build/outputs/apk/debug/)
 
 # Contenidos
 
